@@ -26,3 +26,6 @@ chmod +x Secuencia_algoritmo.sh
 Las graficas se ubicarán en la carpeta que contiene estos archivos. 
 En la carpeta llamada 'figures' se muestran las imágenes que se muestran en el
 documento.
+
+
+CIMAT-Aguascalientes
